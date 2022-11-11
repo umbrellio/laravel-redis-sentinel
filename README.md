@@ -1,5 +1,7 @@
 # Laravel Redis Sentinel driver for `phpredis/phpredis` PHP extension
 
+## PHP 7.4, 8.0, 8.1 support
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/namoshek/laravel-redis-sentinel.svg?style=flat-square)](https://packagist.org/packages/namoshek/laravel-redis-sentinel)
 [![Total Downloads](https://img.shields.io/packagist/dt/namoshek/laravel-redis-sentinel.svg?style=flat-square)](https://packagist.org/packages/namoshek/laravel-redis-sentinel)
 [![Tests](https://github.com/Namoshek/laravel-redis-sentinel/workflows/Tests/badge.svg)](https://github.com/Namoshek/laravel-redis-sentinel/actions?query=workflow%3ATests)
